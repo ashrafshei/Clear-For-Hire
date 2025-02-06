@@ -1,6 +1,8 @@
 streamlit
 pandas
-spacy
+spacy==3.5.4
+thinc==8.1.0
+numpy==1.23.5
 PyPDF2
 joblib
 matplotlib
@@ -9,6 +11,5 @@ wordcloud
 python-docx
 scikit-learn
 flask 
-numpy
 spacy
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0.tar.gz
